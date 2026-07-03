@@ -1,0 +1,42 @@
+[
+    {
+        "Name": "Aarav Sharma",
+        "Roll No": 101,
+        "Section": "A",
+        "Branch": "CS",
+        "Grade": "A",
+        "Marks": 95
+    },
+    {
+        "Name": "Priya Verma",
+        "Roll No": 102,
+        "Section": "B",
+        "Branch": "ECE",
+        "Grade": "B",
+        "Marks": 82
+    },
+    {
+        "Name": "Rohan Gupta",
+        "Roll No": 103,
+        "Section": "A",
+        "Branch": "MECH",
+        "Grade": "A",
+        "Marks": 88
+    },
+    {
+        "Name": "Ananya Reddy",
+        "Roll No": 104,
+        "Section": "C",
+        "Branch": "CS",
+        "Grade": "A",
+        "Marks": 92
+    },
+    {
+        "Name": "Vikram Singh",
+        "Roll No": 105,
+        "Section": "B",
+        "Branch": "CIVIL",
+        "Grade": "C",
+        "Marks": 75
+    }
+]
